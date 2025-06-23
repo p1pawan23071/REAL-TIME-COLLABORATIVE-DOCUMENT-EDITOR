@@ -80,3 +80,7 @@ Maintains full rich-text formatting synchronization
 Offers reliable persistence through MongoDB
 Uses efficient delta-based updates rather than full document transfers
 With its clean codebase and well-chosen technologies, this collaborative editor demonstrates the power of modern web development tools working together to solve real-world collaboration challenges. The application can be easily extended with additional features like user authentication, document versioning, comment threads, or even AI-assisted editing tools.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/543bbd86-4fcd-4ea8-abed-956e92323554)
