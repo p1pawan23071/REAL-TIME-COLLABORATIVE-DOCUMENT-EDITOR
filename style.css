@@ -1,0 +1,55 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+#save-btn {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#save-btn:hover {
+  background: #45a049;
+}
+
+#editor {
+  min-height: 400px;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px 0;
+  outline: none;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#status {
+  color: #666;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+#user-count {
+  color: #666;
+  align-self: center;
+}
